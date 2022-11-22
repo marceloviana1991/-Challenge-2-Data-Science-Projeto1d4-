@@ -1,6 +1,6 @@
 # Nome do meu projeto
 
-Construção de modelo de regressão para precificar imóveis e criação de recomendador, a partir da leitura e tratamento do histórico dos preços do imóveis.
+Construção de modelo de regressão para precificar imóveis e criação de recomendador de im, a partir da leitura e tratamento do histórico dos preços do imóveis.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
