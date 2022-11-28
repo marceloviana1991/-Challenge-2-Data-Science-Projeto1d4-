@@ -5,7 +5,7 @@ Construção de modelo de regressão para precificar imóveis e criação de rec
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Alura Challanges | Data Science**
-| :label: Tecnologias | python, pandas (tecnologias utilizadas)
+| :label: Tecnologias | python, pyspark, colab (tecnologias utilizadas)
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
