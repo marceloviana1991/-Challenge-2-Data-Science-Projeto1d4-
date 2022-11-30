@@ -14,5 +14,5 @@ Projeto realizado na última semana de novembro de 2022.
 
 ## Detalhes do projeto
 
-O arquivo diponível é um nootbook colab refente a realização do tratamento de dados disponibilizados pela imobiliária InsightPlaces utilizando a biblioteca pyspark.
+O arquivo diponível no repositório é composto por um nootbook colab refente a realização do tratamento de dados disponibilizados pela imobiliária InsightPlaces utilizando a biblioteca pyspark.
 
