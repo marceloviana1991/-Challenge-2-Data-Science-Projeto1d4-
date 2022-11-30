@@ -10,7 +10,7 @@ Construção de modelo de regressão para precificar imóveis e criação de rec
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://trello.com/b/xn4stCtl/alura-challenges-data-science-semana-1)
+![](https://discord.com/channels/834111810725871677/1026470272213209109/1047151191135629351)
 
 ## Detalhes do projeto
 
