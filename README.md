@@ -1,4 +1,4 @@
-# Primeira semana do Challenge de Data Science da Alura
+# Segundo Challenge de Data Science da Alura
 
 Projeto realizado na última semana de novembro de 2022.
 
