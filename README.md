@@ -2,7 +2,7 @@
 
 Construção de modelo de regressão para precificar imóveis e criação de recomendador de im, a partir da leitura e tratamento do histórico dos preços do imóveis.
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev | #VitrineDev    |
 | -------------  | --- |
 | :sparkles: Nome        | **Alura Challanges | Data Science**
 | :label: Tecnologias | python, pyspark, colab (tecnologias utilizadas)
