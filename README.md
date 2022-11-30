@@ -2,7 +2,7 @@
 
 Projeto realizado na última semana de novembro de 2022.
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev |https://cursos.alura.com.br/vitrinedev/marceloviana1991/project/-Challenge-Data-Science-Aula-01|
 | -------------  | --- |
 | :sparkles: Nome        | **Titulo do meu projeto**
 | :label: Tecnologias | pyspark (tecnologias utilizadas)
