@@ -1,6 +1,6 @@
 # Segundo Challenge de Data Science da Alura
 
-Projeto realizado na última semana de novembro de 2022.
+Projeto realizado na última semana de novembro de 2022, refente a primeira semana do segundo Challenge de Data Science da Alura.
 
 | :placard: Vitrine.Dev |https://cursos.alura.com.br/vitrinedev/marceloviana1991|
 | -------------  | --- |
