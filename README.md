@@ -6,7 +6,7 @@ Projeto realizado na última semana de novembro de 2022.
 | -------------  | --- |
 | :sparkles: Nome        | **Titulo do meu projeto**
 | :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | [https://url-deploy.com.br](https://cursos.alura.com.br/vitrinedev/marceloviana1991/project/-Challenge-Data-Science-Aula-01/614810)
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
