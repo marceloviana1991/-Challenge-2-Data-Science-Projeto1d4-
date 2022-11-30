@@ -2,7 +2,7 @@
 
 Rápida descrição do objetivo de fazer esse projeto
 
-| :placard: Vitrine.Dev |https://cursos.alura.com.br/vitrinedev/renatovbastos00|
+| :placard: 
 | -------------  | --- |
 | :sparkles: Nome        | *Data Science Challenge*
 | :label: Tecnologias | PySpark, Google Colab
