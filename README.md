@@ -1,7 +1,10 @@
-# Challenge de Data Science Alura 2 semana - 1
+# Challenge Data Science
 
-Construção de modelo de regressão para precificar imóveis e criação de recomendador de im, a partir da leitura e tratamento do histórico dos preços do imóveis.
+Rápida descrição do objetivo de fazer esse projeto
 
-## Detalhes do projeto
-
-Acredito que obtive sucesso em todas as etapas que foram sugeridas pelo challenge com exceção da etapa que sugeriu salvar os dados em arquivos parquet e csv.
+| :placard: Vitrine.Dev |https://cursos.alura.com.br/vitrinedev/renatovbastos00|
+| -------------  | --- |
+| :sparkles: Nome        | *Data Science Challenge*
+| :label: Tecnologias | PySpark, Google Colab
+| :rocket: URL         | https://url-deploy.com.br
+| :fire: Desafio     | https://www.alura.com.br/challenges/data-science-2?host=https://cursos.alura.com.br
