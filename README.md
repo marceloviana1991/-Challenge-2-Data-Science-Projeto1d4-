@@ -5,7 +5,7 @@ Projeto realizado na última semana de novembro de 2022.
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :label: Tecnologias | pyspark (tecnologias utilizadas)
 | :rocket: URL         | [https://url-deploy.com.br](https://cursos.alura.com.br/vitrinedev/marceloviana1991/project/-Challenge-Data-Science-Aula-01/614810)
 | :fire: Desafio     | [https://url-do-desafio.com.br](https://www.alura.com.br/challenges/data-science-2/semana-01-transformacao-dados-pyspark)
 
