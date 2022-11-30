@@ -14,4 +14,4 @@ Projeto realizado na última semana de novembro de 2022, refente a primeira sema
 
 ## Detalhes do projeto
 
-O arquivo diponível no repositório é composto por um nootbook colab refente a realização do tratamento de dados disponibilizados pela imobiliária InsightPlaces utilizando a biblioteca pyspark.
+O arquivo diponível no repositório é composto por um projeto Jupyter refente a realização do tratamento de dados disponibilizados pela imobiliária InsightPlaces utilizando a biblioteca pyspark.
