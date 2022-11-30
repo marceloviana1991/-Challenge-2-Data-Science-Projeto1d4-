@@ -14,4 +14,4 @@ Construção de modelo de regressão para precificar imóveis e criação de rec
 
 ## Detalhes do projeto
 
-Esse projeto tem algumas etapas como: ler e fazer o tratamento do histórico dos preços de imóveis no Rio de Janeiro, construir um modelo de regressão para precificar imóveis e criar um recomendador de imóveis. Para cada uma dessas etapas vamos utilizar a ferramenta PySpark que oferece uma melhor performance ao trabalharmos com grandes volumes de dados.
+Acredito que obtive sucesso em todas as etapas que foram sugeridas pelo challenge com exceção da etapa que sugeriu salvar os dados em arquivos parquet e csv.
