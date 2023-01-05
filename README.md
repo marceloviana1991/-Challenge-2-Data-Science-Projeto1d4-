@@ -10,7 +10,7 @@ Projeto realizado na última semana de novembro de 2022, refente a primeira sema
 | :fire: Desafio     | [https://url-do-desafio.com.br](https://www.alura.com.br/challenges/data-science-2/semana-01-transformacao-dados-pyspark)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://images-ext-2.discordapp.net/external/5GdGeICAGYljYx19HTQUssPZrXf9XQ6SE-WkbVtK2ps/https/www.alura.com.br/assets/img/challenges/share-images/data_science.1659112905.png #vitrinedev)
+![](https://images-ext-2.discordapp.net/external/5GdGeICAGYljYx19HTQUssPZrXf9XQ6SE-WkbVtK2ps/https/www.alura.com.br/assets/img/challenges/share-images/data_science.1659112905.png#vitrinedev)
 
 ## Detalhes do projeto
 
